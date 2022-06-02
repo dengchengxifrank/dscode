@@ -1,0 +1,2 @@
+# dscode
+trash for dscode
